@@ -17,15 +17,15 @@ Checkout Page: Enter order information and complete the order
 Responsive Design: Interface compatible with different screen sizes
 
 ## Getting Started
-Clone the repo
+1-Clone the repo
 
-Go to the project directory:
+2-Go to the project directory:
 cd burak-sagir-ecommerce-site
 
-Install dependencies:
+3-Install dependencies:
 npm install
 
-Start the application:
+4-Start the application:
 npm run dev
 
 ## License
