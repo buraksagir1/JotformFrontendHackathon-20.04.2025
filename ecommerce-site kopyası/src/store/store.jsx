@@ -1,8 +1,9 @@
 import { configureStore } from '@reduxjs/toolkit'
-import firstReducer from './slices/firstSlice'
+import productsReducer from '../slices/ProductsSlice'
 
 export const store = configureStore({
     reducer: {
-        firstSlice: firstReducer
+        products: productsReducer
+
     },
 })

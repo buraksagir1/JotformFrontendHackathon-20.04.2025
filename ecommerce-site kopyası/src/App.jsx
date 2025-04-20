@@ -1,11 +1,14 @@
+import { useState } from 'react'
 import './App.css'
-import { useSelector } from 'react-redux'
+import ProductGrid from './components/ProductGrid'
+import Header from './components/Header'
 import RouterConfig from './config/RouterConfig'
 
 function App() {
 
   return (
     <>
+      <Header />
       <RouterConfig />
     </>
   )
