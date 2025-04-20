@@ -1,8 +1,5 @@
 # Jotform Frontend Hackathon Project
 
-## User Information
-Please fill in your information after forking this repository:
-
 - **Name**: Burak Sağır
 
 ## Project Description
